@@ -1,4 +1,4 @@
-Nodejs Server API server 개발 1
+TDD 기반의 Nodejs Server API server Lab 1
 ==================================
 
 ![nodejs](https://user-images.githubusercontent.com/20153890/39241370-a04076fa-48c1-11e8-950b-614b63faae03.png)
@@ -144,4 +144,4 @@ Nodejs API Server with Express
 Test가 성공적으로 완료된 모습을 볼 수 있다. 
 
 ### 다음 단계에서는 {Projectfolder}/index.js에 구현되어있는 API들을 분리한다. ###
-Nodejs_API_tutorial 2 => https://github.com/phantasmicmeans/nodejs_API_tutorial2
+TDD 기반의 Nodejs Server API server Lab 2 => https://github.com/showbu03/nodejs_api_tdd_lab2
